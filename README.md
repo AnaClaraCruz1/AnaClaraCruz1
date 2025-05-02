@@ -23,13 +23,13 @@ com uma sólida base em programação e experiência em desenvolvimento web.
 
 - **Linguagens de Programação**: Java, JavaScript, HTML, CSS
 - **Frameworks e Bibliotecas**: React, Node.js
-- **Ferramentas e Plataformas**: AWS (estudando para certificação), Git, Canva
+- **Ferramentas e Plataformas**: AWS (estudando para certificação), Git.
 - **Outras Competências**: Gestão de estoque, otimização de processos, análise de dados
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img 
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="15" />
