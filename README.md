@@ -2,6 +2,7 @@
 
 # Olá, eu sou a Ana Clara 👋
 
+
 <img align="right" height="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2N5eHJ5b214N3RhdGgwNGZxczgyNGozYmh4OW03bmVxYWo0N2RvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xT9IgzvnOyNDYnxeHS/giphy.webp" />
 
 Sou estudante de tecnologia em desenvolvimento contínuo, com interesse em soluções digitais voltadas para problemas reais. Estudo diferentes áreas e ferramentas com foco em aprendizado prático e aplicável.
@@ -55,7 +56,7 @@ Se quiser trocar ideias, colaborar ou conhecer mais sobre meus projetos:
 - 💼 [LinkedIn](https://www.linkedin.com/in/anaclaracruz-dev/)  
 - 📧 annacllara20@hotmail.com  
 
-
+<img src="https://github.com/user-attachments/assets/c668a272-f73e-4b5e-86bf-8af0c3f16f2b" alt="Texto alternativo" width="300"/>
 
 
 ---
