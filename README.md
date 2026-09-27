@@ -35,6 +35,16 @@ Tenho experiência prática com **SQL, Power BI, Excel e Python** para análise 
 | [Horizonte Financeira](https://github.com/AnaClaraCruz1/financeira-wireframes) | HTML · CSS · Figma | Interface web e implementação de wireframes |
 | [Página de Pagamento](https://github.com/AnaClaraCruz1/compras-javascript) | HTML · CSS · JavaScript | Interatividade, validações e lógica de aplicação |
 
+## 📊 Projetos colaborativos — Dados & BI
+
+**Análise de Catálogo da Netflix**
+
+Projeto desenvolvido em equipe durante formação em Dados e BI, envolvendo exploração, tratamento, enriquecimento e análise de dados do catálogo da Netflix.
+
+**Tecnologias:** Python · SQL · Tableau · Prefect · TMDB API · Scikit-learn
+
+[Ver projeto no GitHub](https://lnkd.in/g5mms4bc)
+
 ## 🎓 Formação
 
 - **Técnico em Desenvolvimento de Sistemas — SENAC** · conclusão prevista para 2027
